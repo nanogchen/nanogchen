@@ -8,4 +8,4 @@ and hope it will be helpful to the community:
 - molecular structure and topology generation of polymer-grafted hybrid nanostructures (pre-processing of MD)
 - molecular dynamics simulations and trajectory analysis (post-processing of MD)
 
-Specifically, I have written some tutorials on how to do those with more details, see [my web](https://www.gchenlab.com/tutorials/).
+Accompanying this, I have written some tutorials on how to do those with more details, see [my web](https://www.gchenlab.com/tutorials/).

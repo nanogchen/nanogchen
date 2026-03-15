@@ -2,6 +2,7 @@
 
 I hold a PhD in Materials Science and am interested in soft matter and solid state matter using computational chemistry and physics, and AI. Here, I share the code developed in my research 
 and hope it will be helpful to the community:
+- digital twin of experimental scattering for soft matter systems
 - continuum mechanics using finite element or meshfree (RKPM) for elasticity, viscoelasticity, and viscoplasticity
 - recurrent neural networks for modeling history-dependent materials
 - inverse molecular design using recurrent neural network
